@@ -1,6 +1,3 @@
-Name:- Tushar Naik
-class:- BE(B) Batch:- B4
-assigment 1:- Implement Tic-Tac-Toe using A* algorithm
 
 board = [' ' for x in range(10)]
 
